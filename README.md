@@ -1,6 +1,8 @@
 <!-- ![Heading](./assets/heading.svg) -->
 
-![Heading](./header.svg)
+<!-- ![Heading](./header.svg) -->
+
+<img alt="Header" src="./header.svg">
 
 <!-- <img alt="DoesStuff GitHub README Heading" src="./" style="text-align: center;" /> -->
 <!-- <img src="./assets/banner.svg" style="tex÷t-align: center;" /> -->
