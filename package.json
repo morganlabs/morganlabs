@@ -1,0 +1,12 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:does-stuff/does-stuff.git",
+  "author": "Morgan Jones <me@doesstuff.dev>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

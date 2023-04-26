@@ -14,8 +14,22 @@
   <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"></a>
 </div>
 
-<!-- [![Last.FM Recently Played](https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3)](https://last.fm/) -->
-
 &nbsp;
+
+# A Bit About Me.
+
+- I am 16 years old.
+- I will be studying A-Levels in Computer Science, Law, and Psychology
+- I am currently studying English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more at GCSE level.
+- I really love computers
+- My favourite artists are [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), and [more](https://www.last.fm/user/morgan_wj)
+
+# My Setup.
+
+- **OS:** macOS and Windows 11
+- **CPU:** Ryzen 5 3400G
+- **GPU:** AMD Radeon RX 6650XT
+- **RAM:** Corsair 16GB (2x8GB) 3200MHz
+- **Storage:** 256GB NVMe M.2 Addlink SSD and 1TB SATA M.2 Western Digital Blue SSD
 
 <p align="center"><a href="https://www.last.fm/user/morgan_wj"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a></p>
