@@ -18,4 +18,4 @@
 
 &nbsp;
 
-<p align="center"><a href="https://last.fm"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a></p>
+<p align="center"><a href="https://www.last.fm/user/morgan_wj"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a></p>
