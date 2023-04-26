@@ -16,4 +16,4 @@
 
 <!-- [![Last.FM Recently Played](https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3)](https://last.fm/) -->
 
-<a align="center" href="https://last.fm"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a>
+<p align="center"><a href="https://last.fm"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a></p>
