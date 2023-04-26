@@ -1,15 +1,9 @@
-<!-- ![Heading](./assets/heading.svg) -->
+[![Banner](./assets/banner.svg)](https://doesstuff.dev)
 
-<!-- ![Heading](./header.svg) -->
-
-<img alt="Header" src="./header.svg">
-
-<!-- <img alt="DoesStuff GitHub README Heading" src="./" style="text-align: center;" /> -->
-<!-- <img src="./assets/banner.svg" style="tex÷t-align: center;" /> -->
-<!-- <div style="margin-top: -70px; display: flex; justify-content: center;">
-  <img src="./assets/buttons/website.svg" height="48" />
-  <img src="./assets/buttons/insta.svg" height="48" />
-  <img src="./assets/buttons/youtube.svg" height="48" />
-  <img src="./assets/buttons/twitter.svg" height="48" />
-  <img src="./assets/buttons/discord.svg" height="48" />
-</div> -->
+<div style="text-align: center;">
+  <a href="https://doesstuff.dev/"><img src="./assets/buttons/website.svg"><span style="visibility: hidden">Website</span></a>
+  <a href="https://doesstuff.dev/s/discord"><img src="./assets/buttons/discord.svg"><span style="visibility: hidden">Discord</span></a>
+  <a href="https://doesstuff.dev/s/youtube"><img src="./assets/buttons/youtube.svg"><span style="visibility: hidden">YouTube</span></a>
+  <a href="https://doesstuff.dev/s/twitter"><img src="./assets/buttons/twitter.svg"><span style="visibility: hidden">Twitter</span></a>
+  <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"><span style="visibility: hidden">Instagram</span></a>
+</div>
