@@ -1,3 +1,5 @@
+<p align="center" style="opacity: 0.5;"><i><b>He/Him</b></i></p>
+
 [![Banner](./assets/banner.svg)](https://doesstuff.dev)
 
 <div align="center">
