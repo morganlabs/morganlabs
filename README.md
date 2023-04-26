@@ -1,4 +1,4 @@
-<p align="center" style="opacity: 0.5;"><i><b>He/Him</b></i></p>
+<p align="center"><i><b>He/Him</b></i></p>
 
 [![Banner](./assets/banner.svg)](https://doesstuff.dev)
 
@@ -13,3 +13,7 @@
   <span class="spacing">&nbsp;&nbsp;</span>
   <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"></a>
 </div>
+
+<!-- [![Last.FM Recently Played](https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3)](https://last.fm/) -->
+
+<a align="center" href="https://last.fm"><img src="https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3" alt="Last.FM Recently Played" /></a>
