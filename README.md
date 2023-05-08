@@ -22,7 +22,7 @@
 - I will be studying A-Levels in Computer Science, Law, and Psychology
 - I am currently studying English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more at GCSE level.
 - I really love computers
-- My favourite artists are [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), and [more](https://www.last.fm/user/morgan_wj)
+- My favourite artists are [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), and [more](https://www.last.fm/user/morgan_wj)
 
 [![Last.FM Stats](https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3&width=1000)](https://www.last.fm/user/morgan_wj)
 
