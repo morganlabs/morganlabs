@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 */6 * * *"
 
@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
+      - name: Setup NodeJs 14.x
         uses: actions/setup-node@v1
         with:
-          node-version: "16.x"
+          node-version: 14.x
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
