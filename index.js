@@ -31,7 +31,7 @@ const DATA = {
     ? "I am currently studying"
     : "I have studied",
 
-  os: formatter.format(["macOS", "Windows 11"]),
+  os: formatter.format(["Arch Linux", "Windows 11"]),
   cpu: "Ryzen 5 3400G",
   gpu: "AMD Radeon RX 6650XT",
   ram: "Corsair 16GB (2x8GB) 3200MHz",
