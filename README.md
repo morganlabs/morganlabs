@@ -25,13 +25,13 @@ const me = {
     aLevels = ["Computer Science", "Law", "Psychology"],
     gcse = [
       "English Language",
-		"Maths",
-		"Physics",
-		"Chemistry",
-		"Biology",
-		"Religious Studies",
-		"Information Technology",
-		"more"
+    "Maths",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "Religious Studies",
+    "Information Technology",
+    "more"
     ],
   },
   specs = {
@@ -42,20 +42,20 @@ const me = {
       memory = "Corsair 16GB (2x8GB) 3200MHz",
       storage = [
         "256GB NVMe M.2 Addlink SSD",
-		"256 GB Silicon Power SATA SSD",
-		"1TB SATA M.2 Western Digital Blue SSD"
+    "256 GB Silicon Power SATA SSD",
+    "1TB SATA M.2 Western Digital Blue SSD"
       ],
     }
   },
 
   unimportant = {
     favoriteArtists = [
-      "AURORA",
-		"Fall Out Boy",
-		"Silverstein",
-		"Ariana Grande",
-		"Linkin Park",
-		"Limp Bizkit"
+      "Linkin Park",
+    "AURORA",
+    "Fall Out Boy",
+    "Silverstein",
+    "Limp Bizkit",
+    "Ariana Grande"
     ]
   }
 };
@@ -68,7 +68,7 @@ const me = {
 - I program in JavaScript, TypeScript, and Rust.
 - I have completed exams and are waiting results for GCSEs in English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more.
 - I have received a conditional offer to study Computer Science, Law, and Psychology at A-Level.
-- Some of my favorite artists are [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544)
+- Some of my favorite artists are [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295)
 
 ### My Setup: Hostname Meteora
 
