@@ -42,20 +42,20 @@ const me = {
       memory = "Corsair 16GB (2x8GB) 3200MHz",
       storage = [
         "256GB NVMe M.2 Addlink SSD",
-      "256 GB Silicon Power SATA SSD",
-      "1TB SATA M.2 Western Digital Blue SSD"
+        "256 GB Silicon Power SATA SSD",
+        "1TB SATA M.2 Western Digital Blue SSD"
       ],
     }
   },
 
   unimportant = {
     favoriteArtists = [
-      "Ariana Grande",
       "Silverstein",
-      "Limp Bizkit",
-      "Fall Out Boy",
       "AURORA",
-      "Linkin Park"
+      "Linkin Park",
+      "Ariana Grande",
+      "Fall Out Boy",
+      "Limp Bizkit"
     ]
   }
 };
@@ -68,7 +68,7 @@ const me = {
 - I program in JavaScript, TypeScript, and Rust.
 - I have completed exams and are waiting results for GCSEs in English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more.
 - I have received a conditional offer to study Computer Science, Law, and Psychology at A-Level.
-- Some of my favorite artists are [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662)
+- Some of my favorite artists are [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544)
 
 ### My Setup: Hostname Meteora
 

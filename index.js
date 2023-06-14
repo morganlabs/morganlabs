@@ -60,7 +60,7 @@ const DATA = {
   cpu: "Ryzen 5 3400G",
   gpu: "AMD Radeon RX 6650XT",
   memory: "Corsair 16GB (2x8GB) 3200MHz",
-  storage_array: STORAGE.map((x) => `"${x}"`).join(",\n      "),
+  storage_array: STORAGE.map((x) => `"${x}"`).join(",\n        "),
   storage: formatter.format(STORAGE),
 
   favorite_artists_array: FAVORITE_ARTISTS.map((x) => `"${x[0]}"`).join(
