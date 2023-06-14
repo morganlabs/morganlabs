@@ -52,7 +52,7 @@ const DATA = {
 
   a_levels_array: A_LEVELS.map((x) => `"${x}"`).join(", "),
   a_levels: formatter.format(A_LEVELS),
-  gcse_array: GCSE.map((x) => `"${x}"`).join(",\n    "),
+  gcse_array: GCSE.map((x) => `"${x}"`).join(",\n      "),
   gcse: formatter.format(GCSE),
 
   oses_array: OS.map((x) => `"${x}"`).join(", "),
@@ -60,11 +60,11 @@ const DATA = {
   cpu: "Ryzen 5 3400G",
   gpu: "AMD Radeon RX 6650XT",
   memory: "Corsair 16GB (2x8GB) 3200MHz",
-  storage_array: STORAGE.map((x) => `"${x}"`).join(",\n    "),
+  storage_array: STORAGE.map((x) => `"${x}"`).join(",\n      "),
   storage: formatter.format(STORAGE),
 
   favorite_artists_array: FAVORITE_ARTISTS.map((x) => `"${x[0]}"`).join(
-    ",\n    "
+    ",\n      "
   ),
   favorite_artists: FAVORITE_ARTISTS.map((x) => `[${x[0]}](${x[1]})`).join(
     ", "
