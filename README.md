@@ -1,5 +1,3 @@
-<p align="center"><i><b>He/Him</b> | <i><b>They/Them</b></i></p>
-
 [![Banner](./assets/banner.svg)](https://doesstuff.dev)
 
 <div align="center">
@@ -18,18 +16,64 @@
 
 # A Bit About Me.
 
+```js
+const me = {
+  age = 16,
+  lovesComputers = true, // So much
+  programmingLanguages = ["JavaScript", "TypeScript", "Rust"],
+  studying = {
+    aLevels = ["Computer Science", "Law", "Psychology"],
+    gcse = [
+      "English Language",
+		"Maths",
+		"Physics",
+		"Chemistry",
+		"Biology",
+		"Religious Studies",
+		"Information Technology",
+		"more"
+    ],
+  },
+  specs = {
+    hostname__Meteora = {
+      os = ["Arch Linux", "Windows 11"],
+      cpu = "Ryzen 5 3400G",
+      gpu = "AMD Radeon RX 6650XT",
+      memory = "Corsair 16GB (2x8GB) 3200MHz",
+      storage = [
+        "256GB NVMe M.2 Addlink SSD",
+		"256 GB Silicon Power SATA SSD",
+		"1TB SATA M.2 Western Digital Blue SSD"
+      ],
+    }
+  },
+
+  unimportant = {
+    favoriteArtists = [
+      "AURORA",
+		"Fall Out Boy",
+		"Silverstein",
+		"Ariana Grande",
+		"Linkin Park",
+		"Limp Bizkit"
+    ]
+  }
+};
+```
+
+## ... or in Plain Text
+
 - I am 16 years old.
-- I will be studying A-Levels in Computer Science, Law, and Psychology
-- I am currently studying English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more at GCSE level.
-- I really love computers
-- My favourite artists are [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), and [more](https://www.last.fm/user/morgan_wj)
+- I love computers.
+- I program in JavaScript, TypeScript, and Rust.
+- I have completed exams and are waiting results for GCSEs in English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more.
+- I have received a conditional offer to study Computer Science, Law, and Psychology at A-Level.
+- Some of my favorite artists are [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544)
 
-[![Last.FM Stats](https://lastfm-recently-played.vercel.app/api?user=morgan_wj&loved=true&loved_style=3&width=830)](https://www.last.fm/user/morgan_wj)
-
-# My Setup.
+### My Setup: Hostname Meteora
 
 - **OS:** Arch Linux and Windows 11
 - **CPU:** Ryzen 5 3400G
 - **GPU:** AMD Radeon RX 6650XT
 - **RAM:** Corsair 16GB (2x8GB) 3200MHz
-- **Storage:** 256GB NVMe M.2 Addlink SSD and 1TB SATA M.2 Western Digital Blue SSD
+- **Storage:** 256GB NVMe M.2 Addlink SSD, 256 GB Silicon Power SATA SSD, and 1TB SATA M.2 Western Digital Blue SSD
