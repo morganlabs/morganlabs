@@ -28,7 +28,7 @@ I'm a 16 years old developer living in Wales, and I love computers. I have compl
 {
   operating_systems: ["Arch Linux", "Windows 11"],
   cpu: "Ryzen 5 3400G",
-  gpu: "AMD Radeon RX 6650XT"
+  gpu: "AMD Radeon RX 6650XT",
   memory: "Corsair 16GB (2x8GB) DDR4 3200MHz",
   storage: [
     "256GB NVMe M.2 Addlink SSD",
