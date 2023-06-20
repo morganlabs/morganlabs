@@ -1,79 +1,39 @@
-[![Banner](./assets/banner.svg)](https://doesstuff.dev)
+<a align="center" href="https://doesstuff.dev"><img src="./assets/banner.svg"></img></a>
 
 <div align="center">
   <a href="https://doesstuff.dev/"><img src="./assets/buttons/website.svg"></a>
-  <span class="spacing">&nbsp;&nbsp;</span>
-  <a href="https://doesstuff.dev/s/discord"><img src="./assets/buttons/discord.svg"></a>
   <span class="spacing">&nbsp;&nbsp;<span>
   <a href="https://doesstuff.dev/s/youtube"><img src="./assets/buttons/youtube.svg"></a>
+  <span class="spacing">&nbsp;&nbsp;</span>
+  <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"></a>
   <span class="spacing">&nbsp;&nbsp;<span>
   <a href="https://doesstuff.dev/s/twitter"><img src="./assets/buttons/twitter.svg"></a>
   <span class="spacing">&nbsp;&nbsp;</span>
-  <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"></a>
+  <a href="mailto:morgan@doesstuff.dev"><img src="./assets/buttons/email.svg"></a>
 </div>
 
 &nbsp;
 
 # A Bit About Me.
 
-```js
-const me = {
-  age = 16,
-  lovesComputers = true, // So much
-  programmingLanguages = ["JavaScript", "TypeScript", "Rust"],
-  studying = {
-    aLevels = ["Computer Science", "Law", "Psychology"],
-    gcse = [
-      "English Language",
-      "Maths",
-      "Physics",
-      "Chemistry",
-      "Biology",
-      "Religious Studies",
-      "Information Technology",
-      "more"
-    ],
-  },
-  specs = {
-    hostname__Meteora = {
-      os = ["Arch Linux", "Windows 11"],
-      cpu = "Ryzen 5 3400G",
-      gpu = "AMD Radeon RX 6650XT",
-      memory = "Corsair 16GB (2x8GB) 3200MHz",
-      storage = [
-        "256GB NVMe M.2 Addlink SSD",
-        "256 GB Silicon Power SATA SSD",
-        "1TB SATA M.2 Western Digital Blue SSD"
-      ],
-    }
-  },
+I'm a 16 years old developer living in Wales, and I love computers. I have completed exams for and am waiting results for my GCSEs, including English, Maths, Double Science, Religious Studies, I.T., and more. Next year, I hope to study A-levels in Computer Science, Law and Psychology!
 
-  unimportant = {
-    favoriteArtists = [
-      "Silverstein",
-      "AURORA",
-      "Linkin Park",
-      "Ariana Grande",
-      "Fall Out Boy",
-      "Limp Bizkit"
-    ]
-  }
-};
+# My Current Setup
+
+## [Hostname: Meteora](https://doesstuff.dev/s/github?r=.dots&b=main)
+
+**Custom Build**
+
+```json
+{
+  operating_systems: ["Arch Linux", "Windows 11"],
+  cpu: "Ryzen 5 3400G",
+  gpu: "AMD Radeon RX 6650XT"
+  memory: "Corsair 16GB (2x8GB) DDR4 3200MHz",
+  storage: [
+    "256GB NVMe M.2 Addlink SSD",
+    "256GB SATA Silicon Power SSD",
+    "1TB SATA M.2 Western Digital Blue SSD"
+  ],
+}
 ```
-
-## ... or in Plain Text
-
-- I am 16 years old.
-- I love computers.
-- I program in JavaScript, TypeScript, and Rust.
-- I have completed exams and are waiting results for GCSEs in English Language, Maths, Physics, Chemistry, Biology, Religious Studies, Information Technology, and more.
-- I have received a conditional offer to study Computer Science, Law, and Psychology at A-Level.
-- Some of my favorite artists are [Silverstein](https://music.apple.com/gb/artist/silverstein/2621140), [AURORA](https://music.apple.com/gb/artist/aurora/947171999), [Linkin Park](https://music.apple.com/gb/artist/linkin-park/148662), [Ariana Grande](https://music.apple.com/gb/artist/ariana-grande/412778295), [Fall Out Boy](https://music.apple.com/gb/artist/fall-out-boy/28673423), [Limp Bizkit](https://music.apple.com/gb/artist/limp-bizkit/105544)
-
-### My Setup: Hostname Meteora
-
-- **OS:** Arch Linux and Windows 11
-- **CPU:** Ryzen 5 3400G
-- **GPU:** AMD Radeon RX 6650XT
-- **RAM:** Corsair 16GB (2x8GB) 3200MHz
-- **Storage:** 256GB NVMe M.2 Addlink SSD, 256 GB Silicon Power SATA SSD, and 1TB SATA M.2 Western Digital Blue SSD
