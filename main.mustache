@@ -3,6 +3,8 @@
 <div align="center">
   <a href="https://doesstuff.dev/"><img src="./assets/buttons/website.svg"></a>
   <span class="spacing">&nbsp;&nbsp;<span>
+  <a href="https://doesstuff.dev/donate"><img src="./assets/buttons/donate.svg"></a>
+  <span class="spacing">&nbsp;&nbsp;<span>
   <a href="https://doesstuff.dev/s/youtube"><img src="./assets/buttons/youtube.svg"></a>
   <span class="spacing">&nbsp;&nbsp;</span>
   <a href="https://doesstuff.dev/s/instagram"><img src="./assets/buttons/instagram.svg"></a>
