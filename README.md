@@ -24,7 +24,7 @@ I'm a 16 years old developer living in Wales, and I love computers. I have compl
 
 **Custom Build**
 
-```json
+```json5
 {
   operating_systems: ["Arch Linux", "Windows 11"],
   cpu: "Ryzen 5 3400G",
