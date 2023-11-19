@@ -9,3 +9,18 @@ I'm a 16-year-old full-stack developer living in Wales. I am currently in Colleg
     <br />
     <small>The most used languages in my repos.</small>
 </div>
+
+# Want to know more?
+
+I've got many places outside of GitHub where I post new content!
+
+* [My website](https://morganlabs.dev) **(Work in progress)**
+* [Mastodon](https://morganlabs.dev/s/mastodon)
+* [YouTube](https://morganlabs.dev/s/youtube)
+* [Instagram](https://morganlabs.dev/s/instagram)
+* [Twitter](https://morganlabs.dev/s/xformerlytwitter)
+
+# Enjoy my work?
+
+I have setup a [Ko-Fi](https://morganlabs.dev/ko-fi) where you can donate to me and support my work!
+
