@@ -6,5 +6,6 @@ I'm a 16-year-old full-stack developer living in Wales. I am currently in Colleg
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganlabs&layout=compact&hide_title=1&card_width=300" width="" alt="Most used languages in my repos." />
+    <br />
     <small>The most used languages in my repos.</small>
 </div>
