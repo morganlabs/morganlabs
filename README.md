@@ -1,6 +1,15 @@
-<a align="center" href="https://morganlabs.dev"><img src="./assets/banner.svg"></img></a>
+<a align="center" href="https://morganlabs.dev">
+    <img src="./assets/banner.svg" />
+</a>
 
-I'm a 16-year-old full-stack developer living in Wales. I am currently in College taking an I.T. Level 3 Course, and take the Harvard edX CS50x course online in my own time. My primary language to work with is TypeScript/JavaScript, and I supercharge my work with [SvelteKit](https://kit.svelte.dev). 
+I am a 16-year-old full-stack developer living in Wales. I am currently in
+College taking an Information Technology Level 3 Course, and take the Harvard
+edX CS50x course online in my own time. My primary language to work with is
+TypeScript/JavaScript, and I work with technologies such as SvelteKit, MongoDB
++ Mongoose, Scss, and more.
+
+I am always eager to learn, and I am currently learning lower-level languages
+such as Rust and C++.
 
 ---
 
