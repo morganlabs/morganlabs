@@ -23,7 +23,7 @@ such as Rust and C++.
 
 # Where is my work?
 
-I like to organise my work with GitHub Repositories. You can see them on my profile, but here are a few "highlights":
+I like to organise my work with GitHub Organisations. You can see them on my profile, but here are a few "highlights":
 
 * [My College Work](https://github.com/morganlabs-college) from my Level 3 Information Technology BTEC course.
 * [My Forks](https://github.com/morganlabs-forks), whenever I decide to contribute to something.
