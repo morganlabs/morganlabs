@@ -1,0 +1,12 @@
+{
+  "name": "profile",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/mustache": "^4.2.5"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
+
