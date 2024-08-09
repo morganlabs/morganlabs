@@ -1,4 +1,4 @@
-[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner.svg)](https://morganlabs.dev)
+[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner.png)](https://morganlabs.dev)
 
 Hey! 👋 I'm Morgan. I am 17 years old and I live in Wales.
 
