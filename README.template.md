@@ -1,13 +1,20 @@
-# Hey there! 👋
+[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner.svg)](https://morganlabs.dev)
 
-I'm Morgan. I am {{ age }} years old and I live in Wales. I am a full-stack
-developer with an undying love for the backend! I have used Java/TypeScript,
-SvelteKit, Astro, (S)CSS, and more, but I have taken to learning Golang
-receltly. I was going to learn Rust, but Golang seemed like a better language
-for me and what I want to do at the moment.
+Hey! 👋 I'm Morgan. I am {{ age }} years old and I live in Wales.
 
-I **love** backend development. If you're looking for an enthusiastic backend
-developer in Go who is ready to learn and take on the task, let's chat!
+I am a full-stack developer with a love for the backend more than anything. I
+have used:
 
-*Unfortunately, I can only work in the Denbighshire area or remotely due to
-being unable to relocate or drive yet.*
+* HTML
+* (S)CSS
+* Java/TypeScript
+* Next.JS
+* SvelteKit
+* Astro
+* Python
+
+Currently, I am in the process of learning Go! JavaScript was a nice start for
+me, but I find myself wanting better, more performant applications. I tried
+Rust for a while, and I would still love to learn it in the future, but Go
+seems like a better option for me.
+
