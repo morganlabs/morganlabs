@@ -1,4 +1,4 @@
-[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner_knowmore.svg)](https://morganlabs.dev)
+[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner_knowmore.png)](https://morganlabs.dev)
 
 So, you want to know more about me as a person? I'd be lying if I said I wasn't
 flattered!
