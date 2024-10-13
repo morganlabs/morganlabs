@@ -25,4 +25,4 @@ const me = {
 };
 ```
 
-You can read a bit more about my personal life [here](./about_me.md)!
+You can read a bit more about my personal life [here](./ABOUT_ME.md)!
