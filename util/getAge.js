@@ -4,6 +4,8 @@ export default function getAge() {
   let age = current_date.getFullYear() - birthday.getFullYear();
   const m = current_date.getMonth() - birthday.getMonth();
   if (m < 0 || (m === 0 && current_date.getDate() < birthday.getDate())) {
-    age--;
+    return age--;
   }
+
+  return age;
 }

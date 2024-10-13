@@ -3,7 +3,7 @@
 ```js
 const me = {
     pronouns: ["He", "Him"],
-    age = ,
+    age = 17,
     current_technologies = [
         "SvelteKit",
         "SCSS",
