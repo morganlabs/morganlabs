@@ -14,7 +14,7 @@ const me = {
     future_technologies = [
         "Swift",
         "SwiftUI",
-        "NextJS"
+        "NextJS",
         "Rust",
         "Go"
     ],
