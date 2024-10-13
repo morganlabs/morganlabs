@@ -1,18 +1,24 @@
-import { readFileSync, writeFileSync } from "fs";
-import Mustache from "mustache";
+import LastFM from "./util/LastFM.mjs";
+import mustachify from "./util/mustachify.js";
+import getAge from "./util/getAge.js";
 
-const current_date = new Date();
-const birthday = new Date("2007-03-01");
-let age = current_date.getFullYear() - birthday.getFullYear();
-const m = current_date.getMonth() - birthday.getMonth();
-if (m < 0 || (m === 0 && current_date.getDate() < birthday.getDate())) {
-    age--;
-}
-
+console.log("Setting variables...");
 const vars = {
-    age,
+  age: getAge(),
+  topArtists: (await LastFM.getTopArtists())
+    .map(
+      ({ name, url, plays }, idx) =>
+        `${idx + 1}. [${name}](${url}) *(${plays} play${plays !== 1 ? "s" : ""})*`,
+    )
+    .join("\n"),
+  topTracks: (await LastFM.getTopTracks())
+    .map(
+      ({ title, url, plays, artist }, idx) =>
+        `${idx + 1}. [${title}](${url}) by [${artist.name}](${artist.url}) *(${plays} play${plays !== 1 ? "s" : ""})*`,
+    )
+    .join("\n"),
 };
 
-const file = readFileSync("README.template.md", "utf8");
-const output = Mustache.render(file, vars);
-writeFileSync("README.md", output);
+console.log("Mustachifying...");
+mustachify("README", vars);
+mustachify("ABOUT_ME", vars);

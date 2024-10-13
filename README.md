@@ -1,20 +1,28 @@
-[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner.png)](https://morganlabs.dev)
+[![GitHub Profile README banner that reads "morganlabs"](./.github/assets/banner.svg)](https://morganlabs.dev)
 
-Hey! 👋 I'm Morgan. I am 17 years old and I live in Wales.
+```js
+const me = {
+    pronouns: ["He", "Him"],
+    age = ,
+    current_technologies = [
+        "SvelteKit",
+        "SCSS",
+        "JavaScript",
+        "TypeScript",
+        "Nix"
+    ],
+    future_technologies = [
+        "Swift",
+        "SwiftUI",
+        "NextJS"
+        "Rust",
+        "Go"
+    ],
+    environment = {
+        operating_systems = ["NixOS", "macOS"],
+        editor = "nvim",
+    },
+};
+```
 
-I am a full-stack developer with a love for the backend more than anything. I
-have used:
-
-* HTML
-* (S)CSS
-* Java/TypeScript
-* Next.JS
-* SvelteKit
-* Astro
-* Python
-
-Currently, I am in the process of learning Go! JavaScript was a nice start for
-me, but I find myself wanting better, more performant applications. I tried
-Rust for a while, and I would still love to learn it in the future, but Go
-seems like a better option for me.
-
+You can read a bit more about my personal life [here](./about_me.md)!
