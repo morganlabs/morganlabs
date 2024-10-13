@@ -16,19 +16,19 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Doja Cat](https://www.last.fm/music/Doja+Cat) *(3 plays)*
-2. [Poppy](https://www.last.fm/music/Poppy) *(3 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(2 plays)*
-4. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2 plays)*
-5. [Niko B](https://www.last.fm/music/Niko+B) *(2 plays)*
+1. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(3 plays)*
+2. [Doja Cat](https://www.last.fm/music/Doja+Cat) *(3 plays)*
+3. [Poppy](https://www.last.fm/music/Poppy) *(3 plays)*
+4. [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(2 plays)*
+5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(2 plays)*
 
 And my top 5 tracks from the same period are:
 
 1. [122 DAYS](https://www.last.fm/music/$uicideboy$/_/122+DAYS) by [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(1 play)*
-2. [The Edge of Tonight](https://www.last.fm/music/All+Time+Low/_/The+Edge+of+Tonight) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(1 play)*
-3. [imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you) by [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(1 play)*
-4. [Disaster](https://www.last.fm/music/Conan+Gray/_/Disaster) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(1 play)*
-5. [People Watching](https://www.last.fm/music/Conan+Gray/_/People+Watching) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(1 play)*
+2. [Phanton Menace](https://www.last.fm/music/$uicideboy$/_/Phanton+Menace) by [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(1 play)*
+3. [The Edge of Tonight](https://www.last.fm/music/All+Time+Low/_/The+Edge+of+Tonight) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(1 play)*
+4. [imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you) by [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(1 play)*
+5. [shut up](https://www.last.fm/music/Ariana+Grande/_/shut+up) by [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(1 play)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
