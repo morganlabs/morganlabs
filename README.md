@@ -3,24 +3,24 @@
 ```js
 const me = {
     pronouns: ["He", "Him"],
-    age = 17,
-    current_technologies = [
+    age: 17,
+    current_technologies: [
         "SvelteKit",
         "SCSS",
         "JavaScript",
         "TypeScript",
         "Nix"
     ],
-    future_technologies = [
+    future_technologies: [
         "Swift",
         "SwiftUI",
-        "NextJS"
+        "NextJS",
         "Rust",
         "Go"
     ],
-    environment = {
-        operating_systems = ["NixOS", "macOS"],
-        editor = "nvim",
+    environment: {
+        operating_systems: ["NixOS", "macOS"],
+        editor: "nvim",
     },
 };
 ```
