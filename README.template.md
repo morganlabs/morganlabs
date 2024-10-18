@@ -19,7 +19,7 @@ const me = {
         "Go"
     ],
     environment: {
-        operating_systems: ["NixOS", "macOS"],
+        operating_system: "NixOS",
         editor: "nvim",
     },
 };

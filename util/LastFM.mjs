@@ -1,36 +1,34 @@
-const ENV = {
-  username: "morganlabs",
-  base_url: "http://ws.audioscrobbler.com/2.0",
-  key: process.env.LFM_API_KEY,
-  isDev: process.env.DEV === "true",
-};
-
 export default class LastFM {
-  static #defaultArgs = { period: "6month", limit: 5 };
+  #defaultArgs = { period: "6month", limit: 10 };
 
-  static async getTopArtists() {
+  constructor(apiKey, username) {
+    this.apiKey = apiKey;
+    this.username = username;
+  }
+
+  async getTopArtists() {
     const artists = await this.#fetchAPI(
       "user",
       "getTopArtists",
       this.#defaultArgs,
     );
     const formatted = this.#formatTopArtists(artists);
-    if (ENV.isDev) console.log(formatted);
+    devLog(formatted);
     return formatted;
   }
 
-  static async getTopTracks() {
+  async getTopTracks() {
     const tracks = await this.#fetchAPI(
       "user",
       "getTopTracks",
       this.#defaultArgs,
     );
     const formatted = this.#formatTopTracks(tracks);
-    if (ENV.isDev) console.log(formatted);
+    devLog(formatted);
     return formatted;
   }
 
-  static async #fetchAPI(namespace, method, extraQuery = "") {
+  async #fetchAPI(namespace, method, extraQuery = "") {
     let extraQueryStr = "";
 
     for (const [key, value] of Object.entries(extraQuery)) {
@@ -38,16 +36,16 @@ export default class LastFM {
     }
 
     const res = await fetch(
-      `${ENV.base_url}/?method=${namespace}.${method}&user=${ENV.username}&api_key=${ENV.key}&format=json${extraQueryStr}`,
+      `http://ws.audioscrobbler.com/2.0/?method=${namespace}.${method}&user=morganlabs&api_key=${this.apiKey}&format=json${extraQueryStr}`,
     );
     const json = await res.json();
 
-    if (ENV.isDev) console.log(json);
+    devLog(json);
 
     return json;
   }
 
-  static #formatTopArtists(topArtists) {
+  #formatTopArtists(topArtists) {
     let artists = topArtists.topartists.artist;
     artists = artists
       .sort((a) => a.playcount)
@@ -60,7 +58,7 @@ export default class LastFM {
     return artists;
   }
 
-  static #formatTopTracks(topTracks) {
+  #formatTopTracks(topTracks) {
     let tracks = topTracks.toptracks.track;
 
     tracks = tracks
@@ -74,4 +72,9 @@ export default class LastFM {
 
     return tracks;
   }
+}
+
+function devLog(...message) {
+  const isDev = process.env.NODE_ENV === "dev";
+  if (isDev) console.log(...message);
 }

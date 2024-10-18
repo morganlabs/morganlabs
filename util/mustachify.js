@@ -7,12 +7,17 @@ Mustache.escape = function (text) {
 };
 
 export default function mustachify(filename, vars) {
-  console.log(`Reading file ${filename}.template.md`);
+  devLog(`Reading file ${filename}.template.md`);
   const file = readFileSync(`${filename}.template.md`, "utf8");
 
-  console.log(`Mustachifying ${filename}`);
+  devLog(`Mustachifying ${filename}`);
   const output = Mustache.render(file, vars);
 
-  console.log(`Writing to ${filename}.md`);
+  devLog(`Writing to ${filename}.md`);
   writeFileSync(`${filename}.md`, output);
+}
+
+function devLog(...message) {
+  const isDev = process.env.NODE_ENV === "dev";
+  if (isDev) console.log(...message);
 }
