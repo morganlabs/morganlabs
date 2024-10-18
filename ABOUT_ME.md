@@ -16,19 +16,19 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(3 plays)*
-2. [Doja Cat](https://www.last.fm/music/Doja+Cat) *(3 plays)*
-3. [Poppy](https://www.last.fm/music/Poppy) *(3 plays)*
-4. [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(2 plays)*
-5. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(2 plays)*
+1. [Poppy](https://www.last.fm/music/Poppy) *(128 plays)*
+2. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(77 plays)*
+3. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(41 plays)*
+4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(33 plays)*
+5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(24 plays)*
 
 And my top 5 tracks from the same period are:
 
-1. [122 DAYS](https://www.last.fm/music/$uicideboy$/_/122+DAYS) by [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(1 play)*
-2. [Phanton Menace](https://www.last.fm/music/$uicideboy$/_/Phanton+Menace) by [$uicideboy$](https://www.last.fm/music/$uicideboy$) *(1 play)*
-3. [The Edge of Tonight](https://www.last.fm/music/All+Time+Low/_/The+Edge+of+Tonight) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(1 play)*
-4. [imperfect for you](https://www.last.fm/music/Ariana+Grande/_/imperfect+for+you) by [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(1 play)*
-5. [shut up](https://www.last.fm/music/Ariana+Grande/_/shut+up) by [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(1 play)*
+1. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+2. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
+3. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
+4. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
+5. [you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown) by [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(4 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
