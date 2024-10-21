@@ -16,16 +16,16 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Poppy](https://www.last.fm/music/Poppy) *(148 plays)*
-2. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(144 plays)*
-3. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(47 plays)*
-4. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(46 plays)*
-5. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(42 plays)*
-6. [Niko B](https://www.last.fm/music/Niko+B) *(42 plays)*
-7. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(39 plays)*
-8. [Aurora](https://www.last.fm/music/Aurora) *(36 plays)*
+1. [Poppy](https://www.last.fm/music/Poppy) *(149 plays)*
+2. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(147 plays)*
+3. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(48 plays)*
+4. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(47 plays)*
+5. [Niko B](https://www.last.fm/music/Niko+B) *(43 plays)*
+6. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(42 plays)*
+7. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(41 plays)*
+8. [Aurora](https://www.last.fm/music/Aurora) *(37 plays)*
 9. [All Time Low](https://www.last.fm/music/All+Time+Low) *(35 plays)*
-10. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(33 plays)*
+10. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(34 plays)*
 
 And my top 5 tracks from the same period are:
 
