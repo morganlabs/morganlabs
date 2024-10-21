@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Poppy](https://www.last.fm/music/Poppy) *(128 plays)*
-2. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(79 plays)*
-3. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(41 plays)*
-4. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(33 plays)*
-5. [Niko B](https://www.last.fm/music/Niko+B) *(26 plays)*
-6. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(25 plays)*
-7. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(25 plays)*
-8. [All Time Low](https://www.last.fm/music/All+Time+Low) *(22 plays)*
-9. [Aurora](https://www.last.fm/music/Aurora) *(20 plays)*
-10. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(19 plays)*
+1. [Poppy](https://www.last.fm/music/Poppy) *(148 plays)*
+2. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(144 plays)*
+3. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(47 plays)*
+4. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(46 plays)*
+5. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(42 plays)*
+6. [Niko B](https://www.last.fm/music/Niko+B) *(42 plays)*
+7. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(39 plays)*
+8. [Aurora](https://www.last.fm/music/Aurora) *(36 plays)*
+9. [All Time Low](https://www.last.fm/music/All+Time+Low) *(35 plays)*
+10. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(33 plays)*
 
 And my top 5 tracks from the same period are:
 
-1. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
-2. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
-3. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
+1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+2. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+3. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
 4. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
-5. [you should see me in a crown](https://www.last.fm/music/Billie+Eilish/_/you+should+see+me+in+a+crown) by [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(4 plays)*
-6. [For Baltimore](https://www.last.fm/music/All+Time+Low/_/For+Baltimore) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(3 plays)*
-7. [The Final Fight](https://www.last.fm/music/Conan+Gray/_/The+Final+Fight) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(3 plays)*
-8. [Spear](https://www.last.fm/music/Hiroyuki+Sawano/_/Spear) by [Hiroyuki Sawano](https://www.last.fm/music/Hiroyuki+Sawano) *(3 plays)*
-9. [The nameless tragedy](https://www.last.fm/music/KOHTA+YAMAMOTO/_/The+nameless+tragedy) by [KOHTA YAMAMOTO](https://www.last.fm/music/KOHTA+YAMAMOTO) *(3 plays)*
-10. [Better Off (Dying)](https://www.last.fm/music/Lil+Peep/_/Better+Off+(Dying)) by [Lil Peep](https://www.last.fm/music/Lil+Peep) *(3 plays)*
+5. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(8 plays)*
+6. [For Baltimore](https://www.last.fm/music/All+Time+Low/_/For+Baltimore) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(5 plays)*
+7. [Me Without You (All I Ever Wanted)](https://www.last.fm/music/All+Time+Low/_/Me+Without+You+(All+I+Ever+Wanted)) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(5 plays)*
+8. [RISK, RISK, RISK!](https://www.last.fm/music/Jhariah/_/RISK,+RISK,+RISK!) by [Jhariah](https://www.last.fm/music/Jhariah) *(5 plays)*
+9. [Prove You Wrong](https://www.last.fm/music/Mike+Shinoda/_/Prove+You+Wrong) by [Mike Shinoda](https://www.last.fm/music/Mike+Shinoda) *(5 plays)*
+10. [icantbelieveiletyougetaway](https://www.last.fm/music/aldn/_/icantbelieveiletyougetaway) by [aldn](https://www.last.fm/music/aldn) *(4 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
