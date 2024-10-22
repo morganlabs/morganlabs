@@ -18,14 +18,14 @@ artists in the past 6 months are:
 
 1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(156 plays)*
 2. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(58 plays)*
-4. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(48 plays)*
-5. [Niko B](https://www.last.fm/music/Niko+B) *(48 plays)*
-6. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(42 plays)*
-7. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(42 plays)*
-8. [Aurora](https://www.last.fm/music/Aurora) *(37 plays)*
-9. [All Time Low](https://www.last.fm/music/All+Time+Low) *(35 plays)*
-10. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(34 plays)*
+3. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(93 plays)*
+4. [Niko B](https://www.last.fm/music/Niko+B) *(69 plays)*
+5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(59 plays)*
+6. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(48 plays)*
+7. [Ariana Grande](https://www.last.fm/music/Ariana+Grande) *(42 plays)*
+8. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(42 plays)*
+9. [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(37 plays)*
+10. [Aurora](https://www.last.fm/music/Aurora) *(37 plays)*
 
 And my top 5 tracks from the same period are:
 
@@ -33,12 +33,12 @@ And my top 5 tracks from the same period are:
 2. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
 3. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
 4. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
-5. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(10 plays)*
-6. [Why's this dealer?](https://www.last.fm/music/Niko+B/_/Why%27s+this+dealer%3F) by [Niko B](https://www.last.fm/music/Niko+B) *(6 plays)*
-7. [For Baltimore](https://www.last.fm/music/All+Time+Low/_/For+Baltimore) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(5 plays)*
-8. [Me Without You (All I Ever Wanted)](https://www.last.fm/music/All+Time+Low/_/Me+Without+You+(All+I+Ever+Wanted)) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(5 plays)*
-9. [Fight or Flight](https://www.last.fm/music/Conan+Gray/_/Fight+or+Flight) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(5 plays)*
-10. [RISK, RISK, RISK!](https://www.last.fm/music/Jhariah/_/RISK,+RISK,+RISK!) by [Jhariah](https://www.last.fm/music/Jhariah) *(5 plays)*
+5. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(20 plays)*
+6. [Exorcist](https://www.last.fm/music/Kxllswxtch/_/Exorcist) by [Kxllswxtch](https://www.last.fm/music/Kxllswxtch) *(12 plays)*
+7. [Red Rum](https://www.last.fm/music/SECT+UNIT/_/Red+Rum) by [SECT UNIT](https://www.last.fm/music/SECT+UNIT) *(12 plays)*
+8. [WORDS OF THE WARLOCKS](https://www.last.fm/music/DEVILISH+TRIO/_/WORDS+OF+THE+WARLOCKS) by [DEVILISH TRIO](https://www.last.fm/music/DEVILISH+TRIO) *(11 plays)*
+9. [onlyfan.com/sommerray](https://www.last.fm/music/Kamaara/_/onlyfan.com%2Fsommerray) by [Kamaara](https://www.last.fm/music/Kamaara) *(11 plays)*
+10. [Why's this dealer?](https://www.last.fm/music/Niko+B/_/Why%27s+this+dealer%3F) by [Niko B](https://www.last.fm/music/Niko+B) *(11 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
