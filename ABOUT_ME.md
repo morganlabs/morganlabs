@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(410 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(312 plays)*
-3. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
-4. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(142 plays)*
-5. [Aurora](https://www.last.fm/music/Aurora) *(133 plays)*
-6. [Niko B](https://www.last.fm/music/Niko+B) *(121 plays)*
-7. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(119 plays)*
-8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(99 plays)*
-9. [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(73 plays)*
-10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(71 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(447 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(347 plays)*
+3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(159 plays)*
+4. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
+5. [Aurora](https://www.last.fm/music/Aurora) *(145 plays)*
+6. [Niko B](https://www.last.fm/music/Niko+B) *(123 plays)*
+7. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(121 plays)*
+8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(110 plays)*
+9. [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(81 plays)*
+10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(76 plays)*
 
 And my top 5 tracks from the same period are:
 
 1. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(53 plays)*
-2. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(40 plays)*
+2. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(41 plays)*
 3. [The Emptiness Machine](https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(39 plays)*
 4. [Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama) by [Shotgun Willy](https://www.last.fm/music/Shotgun+Willy) *(37 plays)*
-5. [Holidays](https://www.last.fm/music/Conan+Gray/_/Holidays) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(29 plays)*
-6. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
-7. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
-8. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
-9. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
-10. [FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER) by [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(26 plays)*
+5. [Holidays](https://www.last.fm/music/Conan+Gray/_/Holidays) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(33 plays)*
+6. [FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER) by [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(29 plays)*
+7. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+8. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+9. [Crystalized](https://www.last.fm/music/Poppy/_/Crystalized) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
+10. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(28 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
