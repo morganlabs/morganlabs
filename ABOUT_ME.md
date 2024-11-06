@@ -16,16 +16,16 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(601 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(410 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(228 plays)*
-4. [Aurora](https://www.last.fm/music/Aurora) *(182 plays)*
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(172 plays)*
-6. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
-7. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(146 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(615 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(412 plays)*
+3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(234 plays)*
+4. [Aurora](https://www.last.fm/music/Aurora) *(187 plays)*
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(177 plays)*
+6. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(152 plays)*
+7. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
 8. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(133 plays)*
 9. [Niko B](https://www.last.fm/music/Niko+B) *(128 plays)*
-10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(100 plays)*
+10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(104 plays)*
 
 And my top 5 tracks from the same period are:
 
