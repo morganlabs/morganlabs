@@ -16,21 +16,21 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(615 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(412 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(234 plays)*
-4. [Aurora](https://www.last.fm/music/Aurora) *(187 plays)*
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(177 plays)*
-6. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(152 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(661 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(416 plays)*
+3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(242 plays)*
+4. [Aurora](https://www.last.fm/music/Aurora) *(200 plays)*
+5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(188 plays)*
+6. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(163 plays)*
 7. [Poppy](https://www.last.fm/music/Poppy) *(150 plays)*
-8. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(133 plays)*
-9. [Niko B](https://www.last.fm/music/Niko+B) *(128 plays)*
-10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(104 plays)*
+8. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(134 plays)*
+9. [Niko B](https://www.last.fm/music/Niko+B) *(130 plays)*
+10. [Grim Salvo](https://www.last.fm/music/Grim+Salvo) *(110 plays)*
 
 And my top 5 tracks from the same period are:
 
 1. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(53 plays)*
-2. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(43 plays)*
+2. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(44 plays)*
 3. [The Emptiness Machine](https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(39 plays)*
 4. [Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama) by [Shotgun Willy](https://www.last.fm/music/Shotgun+Willy) *(37 plays)*
 5. [Holidays](https://www.last.fm/music/Conan+Gray/_/Holidays) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(33 plays)*
