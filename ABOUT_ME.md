@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(709 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(724 plays)*
 2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(426 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(260 plays)*
-4. [Aurora](https://www.last.fm/music/Aurora) *(215 plays)*
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(197 plays)*
-6. [Poppy](https://www.last.fm/music/Poppy) *(194 plays)*
-7. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(169 plays)*
-8. [Niko B](https://www.last.fm/music/Niko+B) *(144 plays)*
-9. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(139 plays)*
-10. [Tame Impala](https://www.last.fm/music/Tame+Impala) *(139 plays)*
+3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(261 plays)*
+4. [Aurora](https://www.last.fm/music/Aurora) *(222 plays)*
+5. [Poppy](https://www.last.fm/music/Poppy) *(208 plays)*
+6. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(201 plays)*
+7. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(187 plays)*
+8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(173 plays)*
+9. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(145 plays)*
+10. [Niko B](https://www.last.fm/music/Niko+B) *(145 plays)*
 
 And my top 5 tracks from the same period are:
 
-1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(60 plays)*
+1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(62 plays)*
 2. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(54 plays)*
 3. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(45 plays)*
 4. [The Emptiness Machine](https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(39 plays)*
 5. [Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama) by [Shotgun Willy](https://www.last.fm/music/Shotgun+Willy) *(38 plays)*
 6. [Holidays](https://www.last.fm/music/Conan+Gray/_/Holidays) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(34 plays)*
-7. [FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER) by [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(30 plays)*
-8. [Why's this dealer?](https://www.last.fm/music/Niko+B/_/Why%27s+this+dealer%3F) by [Niko B](https://www.last.fm/music/Niko+B) *(30 plays)*
-9. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(30 plays)*
-10. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(29 plays)*
+7. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(33 plays)*
+8. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(31 plays)*
+9. [FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER) by [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(30 plays)*
+10. [Why's this dealer?](https://www.last.fm/music/Niko+B/_/Why%27s+this+dealer%3F) by [Niko B](https://www.last.fm/music/Niko+B) *(30 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
