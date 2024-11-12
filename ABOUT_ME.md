@@ -16,20 +16,20 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(724 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(426 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(261 plays)*
-4. [Aurora](https://www.last.fm/music/Aurora) *(222 plays)*
-5. [Poppy](https://www.last.fm/music/Poppy) *(208 plays)*
-6. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(201 plays)*
-7. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(187 plays)*
-8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(173 plays)*
-9. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(145 plays)*
-10. [Niko B](https://www.last.fm/music/Niko+B) *(145 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(750 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(428 plays)*
+3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(267 plays)*
+4. [Aurora](https://www.last.fm/music/Aurora) *(238 plays)*
+5. [Poppy](https://www.last.fm/music/Poppy) *(221 plays)*
+6. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(220 plays)*
+7. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(214 plays)*
+8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(180 plays)*
+9. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(162 plays)*
+10. [Niko B](https://www.last.fm/music/Niko+B) *(147 plays)*
 
 And my top 5 tracks from the same period are:
 
-1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(62 plays)*
+1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(64 plays)*
 2. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(54 plays)*
 3. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(45 plays)*
 4. [The Emptiness Machine](https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(39 plays)*
