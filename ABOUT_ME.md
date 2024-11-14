@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(773 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(429 plays)*
-3. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(273 plays)*
-4. [Aurora](https://www.last.fm/music/Aurora) *(246 plays)*
-5. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(224 plays)*
-6. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(223 plays)*
-7. [Poppy](https://www.last.fm/music/Poppy) *(222 plays)*
-8. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(186 plays)*
-9. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(166 plays)*
-10. [Niko B](https://www.last.fm/music/Niko+B) *(149 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(1654 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(441 plays)*
+3. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(365 plays)*
+4. [Poppy](https://www.last.fm/music/Poppy) *(324 plays)*
+5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(294 plays)*
+6. [All Time Low](https://www.last.fm/music/All+Time+Low) *(293 plays)*
+7. [Aurora](https://www.last.fm/music/Aurora) *(273 plays)*
+8. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(245 plays)*
+9. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(239 plays)*
+10. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(209 plays)*
 
 And my top 5 tracks from the same period are:
 
-1. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(64 plays)*
-2. [I Had a Fist Fight with an Emo Outside Subway](https://www.last.fm/music/Niko+B/_/I+Had+a+Fist+Fight+with+an+Emo+Outside+Subway) by [Niko B](https://www.last.fm/music/Niko+B) *(54 plays)*
-3. [Heavy Is the Crown](https://www.last.fm/music/Linkin+Park/_/Heavy+Is+the+Crown) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(45 plays)*
-4. [The Emptiness Machine](https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(39 plays)*
-5. [Dalai Lama](https://www.last.fm/music/Shotgun+Willy/_/Dalai+Lama) by [Shotgun Willy](https://www.last.fm/music/Shotgun+Willy) *(38 plays)*
-6. [Holidays](https://www.last.fm/music/Conan+Gray/_/Holidays) by [Conan Gray](https://www.last.fm/music/Conan+Gray) *(34 plays)*
-7. [THE COST OF GIVING UP](https://www.last.fm/music/Poppy/_/THE+COST+OF+GIVING+UP) by [Poppy](https://www.last.fm/music/Poppy) *(33 plays)*
-8. [Why's this dealer?](https://www.last.fm/music/Niko+B/_/Why%27s+this+dealer%3F) by [Niko B](https://www.last.fm/music/Niko+B) *(31 plays)*
-9. [they’re all around us](https://www.last.fm/music/Poppy/_/they%E2%80%99re+all+around+us) by [Poppy](https://www.last.fm/music/Poppy) *(31 plays)*
-10. [FASTER n HARDER](https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER) by [6arelyhuman](https://www.last.fm/music/6arelyhuman) *(30 plays)*
+1. [Fighting Myself](https://www.last.fm/music/Linkin+Park/_/Fighting+Myself) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(109 plays)*
+2. [Lies Greed Misery](https://www.last.fm/music/Linkin+Park/_/Lies+Greed+Misery) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(105 plays)*
+3. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(92 plays)*
+4. [The One True Colour](https://www.last.fm/music/Enter+Shikari/_/The+One+True+Colour) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(88 plays)*
+5. [A Love Like War (feat. Vic Fuentes)](https://www.last.fm/music/All+Time+Low/_/A+Love+Like+War+(feat.+Vic+Fuentes)) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(85 plays)*
+6. [engravings](https://www.last.fm/music/Ethan+Bortnick/_/engravings) by [Ethan Bortnick](https://www.last.fm/music/Ethan+Bortnick) *(81 plays)*
+7. [New Divide](https://www.last.fm/music/Linkin+Park/_/New+Divide) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(78 plays)*
+8. [Faint](https://www.last.fm/music/Linkin+Park/_/Faint) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(71 plays)*
+9. [The Bank of England](https://www.last.fm/music/Enter+Shikari/_/The+Bank+of+England) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(70 plays)*
+10. [All For Nothing (feat. Page Hamilton)](https://www.last.fm/music/Linkin+Park/_/All+For+Nothing+(feat.+Page+Hamilton)) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(69 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
