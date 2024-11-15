@@ -16,16 +16,16 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(1654 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(441 plays)*
-3. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(365 plays)*
-4. [Poppy](https://www.last.fm/music/Poppy) *(324 plays)*
-5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(294 plays)*
-6. [All Time Low](https://www.last.fm/music/All+Time+Low) *(293 plays)*
-7. [Aurora](https://www.last.fm/music/Aurora) *(273 plays)*
-8. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(245 plays)*
-9. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(239 plays)*
-10. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(209 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(1665 plays)*
+2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(442 plays)*
+3. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(379 plays)*
+4. [Poppy](https://www.last.fm/music/Poppy) *(330 plays)*
+5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(314 plays)*
+6. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(302 plays)*
+7. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(294 plays)*
+8. [Aurora](https://www.last.fm/music/Aurora) *(275 plays)*
+9. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(249 plays)*
+10. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(211 plays)*
 
 And my top 5 tracks from the same period are:
 
