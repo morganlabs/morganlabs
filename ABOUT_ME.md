@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(1665 plays)*
-2. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(442 plays)*
-3. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(379 plays)*
-4. [Poppy](https://www.last.fm/music/Poppy) *(330 plays)*
-5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(314 plays)*
-6. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(302 plays)*
-7. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(294 plays)*
-8. [Aurora](https://www.last.fm/music/Aurora) *(275 plays)*
-9. [Dua Lipa](https://www.last.fm/music/Dua+Lipa) *(249 plays)*
-10. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) *(211 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2181 plays)*
+2. [Poppy](https://www.last.fm/music/Poppy) *(672 plays)*
+3. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(603 plays)*
+4. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(551 plays)*
+5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(454 plays)*
+6. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(454 plays)*
+7. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(341 plays)*
+8. [Green Day](https://www.last.fm/music/Green+Day) *(314 plays)*
+9. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(303 plays)*
+10. [Aurora](https://www.last.fm/music/Aurora) *(293 plays)*
 
 And my top 5 tracks from the same period are:
 
 1. [Fighting Myself](https://www.last.fm/music/Linkin+Park/_/Fighting+Myself) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(109 plays)*
 2. [Lies Greed Misery](https://www.last.fm/music/Linkin+Park/_/Lies+Greed+Misery) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(105 plays)*
-3. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(92 plays)*
-4. [The One True Colour](https://www.last.fm/music/Enter+Shikari/_/The+One+True+Colour) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(88 plays)*
-5. [A Love Like War (feat. Vic Fuentes)](https://www.last.fm/music/All+Time+Low/_/A+Love+Like+War+(feat.+Vic+Fuentes)) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(85 plays)*
-6. [engravings](https://www.last.fm/music/Ethan+Bortnick/_/engravings) by [Ethan Bortnick](https://www.last.fm/music/Ethan+Bortnick) *(81 plays)*
-7. [New Divide](https://www.last.fm/music/Linkin+Park/_/New+Divide) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(78 plays)*
-8. [Faint](https://www.last.fm/music/Linkin+Park/_/Faint) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(71 plays)*
-9. [The Bank of England](https://www.last.fm/music/Enter+Shikari/_/The+Bank+of+England) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(70 plays)*
-10. [All For Nothing (feat. Page Hamilton)](https://www.last.fm/music/Linkin+Park/_/All+For+Nothing+(feat.+Page+Hamilton)) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(69 plays)*
+3. [Numb](https://www.last.fm/music/Linkin+Park/_/Numb) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(104 plays)*
+4. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(100 plays)*
+5. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(92 plays)*
+6. [The Revolt Of The Atoms](https://www.last.fm/music/Enter+Shikari/_/The+Revolt+Of+The+Atoms) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(91 plays)*
+7. [The One True Colour](https://www.last.fm/music/Enter+Shikari/_/The+One+True+Colour) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(88 plays)*
+8. [Holy (Til You Let Me Go)](https://www.last.fm/music/Rina+Sawayama/_/Holy+(Til+You+Let+Me+Go)) by [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(87 plays)*
+9. [A Love Like War (feat. Vic Fuentes)](https://www.last.fm/music/All+Time+Low/_/A+Love+Like+War+(feat.+Vic+Fuentes)) by [All Time Low](https://www.last.fm/music/All+Time+Low) *(85 plays)*
+10. [engravings](https://www.last.fm/music/Ethan+Bortnick/_/engravings) by [Ethan Bortnick](https://www.last.fm/music/Ethan+Bortnick) *(81 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
