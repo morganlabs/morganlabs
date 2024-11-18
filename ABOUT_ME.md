@@ -17,9 +17,9 @@ According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
 1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2314 plays)*
-2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(813 plays)*
+2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(814 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(723 plays)*
-4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(604 plays)*
+4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(611 plays)*
 5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(499 plays)*
 6. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(455 plays)*
 7. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(392 plays)*
