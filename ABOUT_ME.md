@@ -16,7 +16,7 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2314 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2315 plays)*
 2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(814 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(723 plays)*
 4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(611 plays)*
