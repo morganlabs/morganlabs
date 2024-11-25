@@ -16,13 +16,13 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2315 plays)*
-2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(814 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2320 plays)*
+2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(815 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(723 plays)*
-4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(611 plays)*
+4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(612 plays)*
 5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(499 plays)*
-6. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(455 plays)*
-7. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(392 plays)*
+6. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(456 plays)*
+7. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(393 plays)*
 8. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(373 plays)*
 9. [Mike Shinoda](https://www.last.fm/music/Mike+Shinoda) *(321 plays)*
 10. [Lil Peep](https://www.last.fm/music/Lil+Peep) *(317 plays)*
