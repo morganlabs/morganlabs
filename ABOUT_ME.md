@@ -19,7 +19,7 @@ artists in the past 6 months are:
 1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2868 plays)*
 2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(883 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(850 plays)*
-4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(742 plays)*
+4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(743 plays)*
 5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(551 plays)*
 6. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(509 plays)*
 7. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(500 plays)*
