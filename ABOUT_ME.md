@@ -16,16 +16,16 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2918 plays)*
-2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(904 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2932 plays)*
+2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(909 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(850 plays)*
-4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(793 plays)*
-5. [All Time Low](https://www.last.fm/music/All+Time+Low) *(559 plays)*
-6. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(552 plays)*
-7. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(525 plays)*
+4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(819 plays)*
+5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(578 plays)*
+6. [All Time Low](https://www.last.fm/music/All+Time+Low) *(563 plays)*
+7. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(528 plays)*
 8. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(505 plays)*
 9. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(469 plays)*
-10. [Green Day](https://www.last.fm/music/Green+Day) *(423 plays)*
+10. [Green Day](https://www.last.fm/music/Green+Day) *(427 plays)*
 
 And my top 5 tracks from the same period are:
 
@@ -36,9 +36,9 @@ And my top 5 tracks from the same period are:
 5. [Lies Greed Misery](https://www.last.fm/music/Linkin+Park/_/Lies+Greed+Misery) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(106 plays)*
 6. [Femininomenon](https://www.last.fm/music/Chappell+Roan/_/Femininomenon) by [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(104 plays)*
 7. [Numb](https://www.last.fm/music/Linkin+Park/_/Numb) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(104 plays)*
-8. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(103 plays)*
-9. [Petrified (Los Angeles Remix)](https://www.last.fm/music/Fort+Minor/_/Petrified+(Los+Angeles+Remix)) by [Fort Minor](https://www.last.fm/music/Fort+Minor) *(102 plays)*
-10. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(102 plays)*
+8. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(103 plays)*
+9. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(103 plays)*
+10. [Petrified (Los Angeles Remix)](https://www.last.fm/music/Fort+Minor/_/Petrified+(Los+Angeles+Remix)) by [Fort Minor](https://www.last.fm/music/Fort+Minor) *(102 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
