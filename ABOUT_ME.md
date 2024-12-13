@@ -16,29 +16,29 @@ You can read about my love for Apple Music
 According to my [last.fm profile](https://last.fm/user/morganlabs), my top 5
 artists in the past 6 months are:
 
-1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2958 plays)*
-2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(916 plays)*
+1. [Linkin Park](https://www.last.fm/music/Linkin+Park) *(2977 plays)*
+2. [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(919 plays)*
 3. [Poppy](https://www.last.fm/music/Poppy) *(850 plays)*
-4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(840 plays)*
-5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(601 plays)*
-6. [All Time Low](https://www.last.fm/music/All+Time+Low) *(582 plays)*
-7. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(532 plays)*
-8. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(511 plays)*
+4. [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(848 plays)*
+5. [Conan Gray](https://www.last.fm/music/Conan+Gray) *(617 plays)*
+6. [All Time Low](https://www.last.fm/music/All+Time+Low) *(589 plays)*
+7. [Charli xcx](https://www.last.fm/music/Charli+xcx) *(536 plays)*
+8. [Fort Minor](https://www.last.fm/music/Fort+Minor) *(515 plays)*
 9. [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(469 plays)*
-10. [Green Day](https://www.last.fm/music/Green+Day) *(430 plays)*
+10. [Green Day](https://www.last.fm/music/Green+Day) *(432 plays)*
 
 And my top 5 tracks from the same period are:
 
 1. [Jesus of Suburbia](https://www.last.fm/music/Green+Day/_/Jesus+of+Suburbia) by [Green Day](https://www.last.fm/music/Green+Day) *(129 plays)*
 2. [Minor Feelings](https://www.last.fm/music/Rina+Sawayama/_/Minor+Feelings) by [Rina Sawayama](https://www.last.fm/music/Rina+Sawayama) *(119 plays)*
-3. [Fighting Myself](https://www.last.fm/music/Linkin+Park/_/Fighting+Myself) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(112 plays)*
+3. [Fighting Myself](https://www.last.fm/music/Linkin+Park/_/Fighting+Myself) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(113 plays)*
 4. [The Catalyst](https://www.last.fm/music/Linkin+Park/_/The+Catalyst) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(108 plays)*
 5. [Lies Greed Misery](https://www.last.fm/music/Linkin+Park/_/Lies+Greed+Misery) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(106 plays)*
 6. [Femininomenon](https://www.last.fm/music/Chappell+Roan/_/Femininomenon) by [Chappell Roan](https://www.last.fm/music/Chappell+Roan) *(105 plays)*
 7. [Easier to Run](https://www.last.fm/music/Linkin+Park/_/Easier+to+Run) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(104 plays)*
 8. [Numb](https://www.last.fm/music/Linkin+Park/_/Numb) by [Linkin Park](https://www.last.fm/music/Linkin+Park) *(104 plays)*
-9. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(103 plays)*
-10. [The One True Colour](https://www.last.fm/music/Enter+Shikari/_/The+One+True+Colour) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(102 plays)*
+9. [The One True Colour](https://www.last.fm/music/Enter+Shikari/_/The+One+True+Colour) by [Enter Shikari](https://www.last.fm/music/Enter+Shikari) *(103 plays)*
+10. [New Way Out](https://www.last.fm/music/Poppy/_/New+Way+Out) by [Poppy](https://www.last.fm/music/Poppy) *(103 plays)*
 
 **Fun Fact:** All of that information was pulled directly from the LastFM API
 and written to every midnight automatically using Mustache! You can see the
